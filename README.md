@@ -271,4 +271,7 @@ Reliability Engineering & Data Analytics
 
 # If you find this project useful, please star the repository! ⭐
 
-# License 
+# License 📄
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project, provided proper credit is given.
